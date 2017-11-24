@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 57613b22d28831b47bccb18cd69bd466
+timeCreated: 1510840732
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CineFloor
+    100002: CineWall
+    100004: ExhivirMuseumInlineWall.dxf
+    100006: Layer:0
+    100008: MainFloor
+    100010: MainWall
+    100012: PlantFloor
+    100014: PlantWall
+    100016: SoundFloor
+    100018: SoundWall
+    100020: //RootNode
+    100022: WhiteFloor
+    100024: WhiteWall
+    400000: CineFloor
+    400002: CineWall
+    400004: ExhivirMuseumInlineWall.dxf
+    400006: Layer:0
+    400008: MainFloor
+    400010: MainWall
+    400012: PlantFloor
+    400014: PlantWall
+    400016: SoundFloor
+    400018: SoundWall
+    400020: //RootNode
+    400022: WhiteFloor
+    400024: WhiteWall
+    2300000: CineFloor
+    2300002: CineWall
+    2300004: MainFloor
+    2300006: MainWall
+    2300008: PlantFloor
+    2300010: PlantWall
+    2300012: SoundFloor
+    2300014: SoundWall
+    2300016: WhiteFloor
+    2300018: WhiteWall
+    3300000: CineFloor
+    3300002: CineWall
+    3300004: MainFloor
+    3300006: MainWall
+    3300008: PlantFloor
+    3300010: PlantWall
+    3300012: SoundFloor
+    3300014: SoundWall
+    3300016: WhiteFloor
+    3300018: WhiteWall
+    4300000: CineFloor
+    4300002: SoundFloor
+    4300004: PlantFloor
+    4300006: WhiteFloor
+    4300008: MainFloor
+    4300010: MainWall
+    4300012: CineWall
+    4300014: SoundWall
+    4300016: PlantWall
+    4300018: WhiteWall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
